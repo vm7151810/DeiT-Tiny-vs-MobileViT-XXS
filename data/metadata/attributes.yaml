@@ -1,0 +1,68 @@
+shape:
+  - circular
+  - circular, band
+  - circular, coiled
+  - circular, flat
+  - conical
+  - cuboid
+  - cuboid, vehicle
+  - curved, cylindrical
+  - cylindrical
+  - cylindrical, symmetrical
+  - ergonomic, curved
+  - hemispherical
+  - hexagonical
+  - irregular
+  - irregular, leafy
+  - irregular, spherical
+  - irregular, tree-like
+  - long, cylindrical
+  - long, flat
+  - long, thin
+  - oval
+  - oval, irregular
+  - oval, long
+  - oval, spherical
+  - prolate spheroid (oval)
+  - rectangular
+  - rectangular, cuboid
+  - rectangular, flat
+  - rectangular, small
+  - spherical
+  - spherical (bunch)
+  - square, flat
+  - u-shaped
+
+colour:
+  - black
+  - blue
+  - brown
+  - green
+  - multi-colored
+  - orange
+  - pink
+  - purple
+  - red
+  - silver
+  - white
+  - yellow
+
+material:
+  - ceramic
+  - cloth
+  - cotton
+  - glass
+  - leather
+  - metal
+  - metal and plastic
+  - metal and rubber
+  - metal and wood
+  - organic
+  - paper
+  - plastic
+  - plastic and metal
+  - rubber
+  - rubber and metal
+  - wax
+  - wood
+  - wooden

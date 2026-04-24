@@ -1,0 +1,35 @@
+deit_best_local:
+  classes: val_acc=0.8033, val_f1=0.8019
+  shape: acc=0.739, f1=0.653
+  colour: acc=0.723, f1=0.628
+  material: acc=0.783, f1=0.618
+
+deit_tiny_patch16_224_best_pooled:
+  ACC=0.8879, F1=0.8645
+  attr_color: acc=0.752, f1=0.546
+  attr_material: acc=0.808, f1=0.633
+  attr_condition: acc=0.768, f1=0.555
+
+deit_tiny_patch16_224_best_local_121:
+  val_acc=0.6418, val_f1=0.6009
+  shape: acc=0.758, f1=0.694
+  colour: acc=0.683, f1=0.571
+  material: acc=0.776, f1=0.653
+
+mobilevit_s_best_local:
+  classes val_acc=0.7433, val_f1=0.7336
+  shape: acc=0.648, f1=0.519
+  colour: acc=0.573, f1=0.439
+  material: acc=0.729, f1=0.519
+
+mobilevit_xxs_best_pooled:
+  ACC=0.7783, F1=0.6171
+  attr_color: acc=0.426, f1=0.121
+  attr_material: acc=0.665, f1=0.269
+  attr_condition: acc=0.545, f1=0.231
+
+mobilevit_s_best_local_121:
+  val_acc=0.4803, val_f1=0.3829
+  shape: acc=0.687, f1=0.544
+  colour: acc=0.592, f1=0.440
+  material: acc=0.752, f1=0.519

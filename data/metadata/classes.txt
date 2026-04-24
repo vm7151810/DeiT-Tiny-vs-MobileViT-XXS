@@ -1,0 +1,10 @@
+bathroom
+clothing
+electronics
+food
+fruits
+furniture
+medical
+sports
+stationary
+tools
